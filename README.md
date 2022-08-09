@@ -13,6 +13,9 @@
 ![Lua](https://img.shields.io/badge/Lua-090909?style=for-the-badge&logo=Lua&logoColor=00f9ec)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-090909?style=for-the-badge&logo=VisualStudio&logoColor=c6000a)
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-E-R-K-Y-T&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-E-R-K-Y-T&theme=react&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ### Follow me 
 
