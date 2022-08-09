@@ -3,6 +3,10 @@
 ## Hello! My name is Timofey Kondakov,but everybody calls me "BERKYT". I love programming in python and making games. I will briefly tell you about my path in game development. I'm a level designer. I remember my first game on PS3, that was "Resistance fall of man". I was looking on maps in this game and my breathe goes away. That was one of the steps for my level designer job. I admired everything in game: graphics, level details, characters and weapon design, sounds. Since this time I was studing 3ds MAX. It was very difficult way to study this programm. As a result:I started mapping in different varioties. And thanks to this, I again needed 3ds max to change something in the finished models or add my own. Day in and day out, I practiced and practiced until I came to the result, albeit rather quick by the standards of a professional game dev, which is now. I just like [programming](https://pastebin.com/u/BERKYT) and [art](https://www.artstation.com/berkyt)
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-E-R-K-Y-T&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-E-R-K-Y-T&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ### Language and Tools
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=5900c6)
@@ -12,9 +16,6 @@
 ![RegulareExpression](https://img.shields.io/badge/Regex-090909?style=for-the-badge&logo=123&logoColor=f9ec00)
 ![Lua](https://img.shields.io/badge/Lua-090909?style=for-the-badge&logo=Lua&logoColor=00f9ec)
 ![VisualStudio](https://img.shields.io/badge/VisualStudio-090909?style=for-the-badge&logo=VisualStudio&logoColor=c6000a)
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=B-E-R-K-Y-T&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=B-E-R-K-Y-T&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Follow me 
