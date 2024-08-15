@@ -11,15 +11,15 @@
 ![PyCharm](https://img.shields.io/badge/PyCharm-090909?style=for-the-badge&logo=PyCharm&logoColor=6dc600)
 ![VisualStudioCode](https://img.shields.io/badge/VsCode-090909?style=for-the-badge&logo=VisualStudioCode)
 ![Python](https://img.shields.io/badge/Python-090909?style=for-the-badge&logo=Python)
-![GoLang](https://img.shields.io/badge/GoLang-090909?style=for-the-badge&logo=GoLang&logoColor=00f9ec)
+![GoLang](https://img.shields.io/badge/GoLang-090909?style=for-the-badge&logo=GoLang&logoColor=25e2e6)
 ![C++](https://img.shields.io/badge/C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=5900c6)
 ![CSharp](https://img.shields.io/badge/CSharp-090909?style=for-the-badge&logo=CSharp&logoColor=f9ec00)
 ![Lua](https://img.shields.io/badge/Lua-090909?style=for-the-badge&logo=Lua&logoColor=00f9ec)
 ![RegulareExpression](https://img.shields.io/badge/Regex-090909?style=for-the-badge&logo=123&logoColor=f9ec00)
-![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=00f9ec)
+![FastAPI](https://img.shields.io/badge/FastAPI-090909?style=for-the-badge&logo=FastAPI&logoColor=4fc298)
 ![asyncio](https://img.shields.io/badge/asyncio-090909?style=for-the-badge&logo=asyncio&logoColor=00f9ec)
-![rabbitmq](https://img.shields.io/badge/rabbitmq-090909?style=for-the-badge&logo=rabbitmq&logoColor=00f9ec)
-![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=Redis&logoColor=00f9ec)
+![rabbitmq](https://img.shields.io/badge/rabbitmq-090909?style=for-the-badge&logo=rabbitmq&logoColor=d67a38)
+![Redis](https://img.shields.io/badge/Redis-090909?style=for-the-badge&logo=Redis&logoColor=e03326)
 
 
 ### Follow me 
